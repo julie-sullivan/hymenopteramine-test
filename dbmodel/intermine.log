@@ -1,0 +1,1107 @@
+2019-07-19 11:24:24 INFO   org.intermine.bio.ontology.OboParser     - default-namespace is "sequence"
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000004 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000010 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000011 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000026 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000027 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000028 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000060 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000067 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000080 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000081 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000083 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000084 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000107 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000190 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000191 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000192 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000207 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000237 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000240 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000248 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000290 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000291 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000298 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000299 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000300 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000301 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000322 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000328 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000342 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000346 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000381 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000382 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000401 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000420 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000421 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000422 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000423 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000424 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000425 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000426 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000427 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000428 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000429 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000430 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000431 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000432 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000439 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000460 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000482 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000492 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000546 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000562 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000563 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000568 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000571 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000573 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000575 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000578 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000585 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000608 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000617 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000618 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000621 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000623 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000626 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000628 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000629 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000636 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000641 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000642 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000656 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000659 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000663 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000664 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000669 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000685 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000735 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000736 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000737 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000738 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000739 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000740 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000743 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000744 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000745 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000746 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000747 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000748 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000749 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000751 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000752 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000755 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000757 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000758 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000785 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000806 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000842 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000848 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000849 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000850 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000856 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000903 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000910 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000932 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000936 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000938 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000939 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000940 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000951 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000975 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000977 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000981 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000982 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000983 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000984 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000985 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000986 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000991 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000992 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000993 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000994 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000995 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000996 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000997 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001004 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001005 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001014 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001021 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001029 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001032 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001033 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001152 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001153 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001217 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001219 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Could not match synonym value from: "D" EXACT RNAMOD []
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Could not match synonym value from: "Y" EXACT RNAMOD []
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Could not match synonym value from: "I" RELATED []
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001238 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001239 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001241 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001263 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001264 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001265 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001266 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001267 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001268 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001269 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001270 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001271 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001272 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001276 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001277 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Could not match synonym value from: "Q" EXACT RNAMOD []
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001384 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001391 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Could not match synonym value from: "A" EXACT aa1 []
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001435 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Could not match synonym value from: "V" EXACT aa1 []
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001436 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Could not match synonym value from: "L" EXACT aa1 []
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001437 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Could not match synonym value from: "I" EXACT aa1 []
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001438 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Could not match synonym value from: "P" EXACT aa1 []
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001439 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Could not match synonym value from: "W" EXACT aa1 []
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001440 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Could not match synonym value from: "F" EXACT aa1 []
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001441 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Could not match synonym value from: "M" EXACT aa1 []
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001442 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Could not match synonym value from: "G" EXACT aa1 []
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001443 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Could not match synonym value from: "S" EXACT aa1 []
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001444 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Could not match synonym value from: "T" EXACT aa1 []
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001445 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Could not match synonym value from: "Y" EXACT aa1 []
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001446 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Could not match synonym value from: "C" EXACT aa1 []
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001447 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Could not match synonym value from: "Q" EXACT aa1 []
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001448 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Could not match synonym value from: "N" EXACT aa1 []
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001449 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Could not match synonym value from: "K" EXACT aa1 []
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001450 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Could not match synonym value from: "R" EXACT aa1 []
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001451 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Could not match synonym value from: "H" EXACT aa1 []
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001452 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Could not match synonym value from: "D" EXACT aa1 []
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001453 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Could not match synonym value from: "E" EXACT aa1 []
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001454 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Could not match synonym value from: "U" EXACT aa1 []
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001455 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Could not match synonym value from: "O" EXACT aa1 []
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001456 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001482 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001508 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001509 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001510 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001511 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001513 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001517 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001518 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001519 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001520 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001521 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001522 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001523 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001524 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001593 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001595 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001602 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001659 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001660 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001668 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001670 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001671 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001672 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001690 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001691 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001692 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001765 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001766 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001767 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001768 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001770 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001771 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001772 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001773 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001774 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001775 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001776 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001777 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001778 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001779 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001780 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001781 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001785 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001814 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001815 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001816 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0005847 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0005848 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0005849 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:1000013 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:1000020 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:1000170 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:1000175 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:1000183 def: null
+2019-07-19 11:24:24 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:1001217 def: null
+2019-07-19 11:24:24 INFO     org.obo.dataadapter.OBOFileAdapter     - Reading [/db/hymenopteramine_release_1.4_april2019/intermine/bio/sources/so/so.obo]
+	 (allowDangling = true)
+	 (followImports = true)
+2019-07-19 11:24:24 INFO  org.obo.dataadapter.SimpleLinkFileAdapter     - gsr=[/db/hymenopteramine_release_1.4_april2019/intermine/hymenopteramine/dbmodel/build/obo2712761463775742507.tmp]
+2019-07-19 11:24:24 INFO  org.obo.dataadapter.SimpleLinkFileAdapter     - fp=/db/hymenopteramine_release_1.4_april2019/intermine/hymenopteramine/dbmodel/build/obo2712761463775742507.tmp
+2019-07-19 11:24:24 INFO  org.obo.dataadapter.SimpleLinkFileAdapter     - fpp=/db/hymenopteramine_release_1.4_april2019/intermine/hymenopteramine/dbmodel/build/obo2712761463775742507.tmp
+2019-07-19 11:24:24 INFO  org.obo.dataadapter.SimpleLinkFileAdapter     - new reasoner...
+2019-07-19 11:24:25 INFO  org.obo.reasoner.impl.LinkPileReasoner     -    Total reasoner time = 399.030185 ms
+2019-07-19 11:24:25 INFO  org.obo.reasoner.impl.LinkPileReasoner     -    Add time(true(0)) = 198.913522 ms
+2019-07-19 11:24:25 INFO  org.obo.reasoner.impl.LinkPileReasoner     -    Add time(false(0)) = 0.0 ms
+2019-07-19 11:24:25 INFO  org.obo.reasoner.impl.LinkPileReasoner     -    Pile pull time: 4.795004 ms
+2019-07-19 11:24:25 INFO  org.obo.reasoner.impl.LinkPileReasoner     -  readdedCount = 0
+2019-07-19 11:24:25 INFO  org.obo.reasoner.impl.LinkPileReasoner     -  newaddedCount = 0
+2019-07-19 11:24:25 INFO  org.obo.reasoner.impl.LinkPileReasoner     -    time in rule (Transitivity rule (implicationTime = 47.624822, expConstTime = 39.728529, fetchTime = 34.201998)) = 140.920406 ms
+2019-07-19 11:24:25 INFO  org.obo.reasoner.impl.LinkPileReasoner     -    time in rule (org.obo.reasoner.impl.GenusDifferentiaRule@53940e2f) = 1.540294 ms
+2019-07-19 11:24:25 INFO  org.obo.reasoner.impl.LinkPileReasoner     -    time in rule (org.obo.reasoner.impl.IntersectionRule@45e6d1e0) = 2.511361 ms
+2019-07-19 11:24:25 INFO  org.obo.reasoner.impl.LinkPileReasoner     -    time in rule (org.obo.reasoner.impl.TransitiveOverRule@61db86bf) = 2.444791 ms
+2019-07-19 11:24:25 INFO  org.obo.reasoner.impl.LinkPileReasoner     -    time in rule (org.obo.reasoner.impl.HoldsOverChainRule@4da1f38a) = 2.31088 ms
+2019-07-19 11:24:25 INFO  org.obo.reasoner.impl.LinkPileReasoner     -    time in rule (org.obo.reasoner.impl.PropertyIntersectionRule@3e377967) = 2.744124 ms
+2019-07-19 11:24:25 INFO   org.intermine.bio.ontology.OboParser     - PROGRESS:Writing file...
+2019-07-19 11:24:25 INFO   org.intermine.bio.ontology.OboParser     - Unsupported type:relation
+2019-07-19 11:24:25 INFO   org.intermine.bio.ontology.OboParser     - Unsupported type:disjoint_from
+2019-07-19 11:24:25 INFO   org.intermine.bio.ontology.OboParser     - Unsupported type:disjoint_from
+2019-07-19 11:24:25 INFO   org.intermine.bio.ontology.OboParser     - Unsupported type:disjoint_from
+2019-07-19 11:24:25 INFO   org.intermine.bio.ontology.OboParser     - Unsupported type:disjoint_from
+2019-07-19 11:24:25 INFO   org.intermine.bio.ontology.OboParser     - Unsupported type:disjoint_from
+2019-07-19 11:24:25 INFO   org.intermine.bio.ontology.OboParser     - Processed transitive closure of OBO file, took: 745 ms
+2019-07-19 11:24:27 INFO  org.intermine.modelproduction.ModelMerger     - removing reference chromosome redefinition in org.intermine.model.bio.ChromosomeBand (is now defined in org.intermine.model.bio.SequenceFeature)
+2019-07-19 11:24:27 INFO  org.intermine.modelproduction.ModelMerger     - removing attribute proteinIdentifier redefinition in org.intermine.model.bio.MRNA (is now defined in org.intermine.model.bio.Transcript)
+2019-07-19 11:24:27 INFO  org.intermine.modelproduction.ModelMerger     - removing attribute source redefinition in org.intermine.model.bio.Gene (is now defined in org.intermine.model.bio.SequenceFeature)
+2019-07-19 11:24:27 INFO  org.intermine.modelproduction.ModelMerger     - removing attribute proteinIdentifier redefinition in org.intermine.model.bio.MRNA (is now defined in org.intermine.model.bio.Transcript)
+2019-07-19 11:24:27 INFO  org.intermine.modelproduction.ModelMerger     - removing attribute mirbaseIdentifier redefinition in org.intermine.model.bio.MiRNA (is now defined in org.intermine.model.bio.NcRNA)
+2019-07-19 11:24:27 INFO  org.intermine.modelproduction.ModelMerger     - removing attribute biotype redefinition in org.intermine.model.bio.PrimaryTranscript (is now defined in org.intermine.model.bio.Transcript)
+2019-07-19 11:24:27 INFO  org.intermine.modelproduction.ModelMerger     - removing attribute name redefinition in org.intermine.model.bio.ProteinDomain (is now defined in org.intermine.model.bio.BioEntity)
+2019-07-19 11:24:27 INFO  org.intermine.modelproduction.ModelMerger     - removing attribute source redefinition in org.intermine.model.bio.Gene (is now defined in org.intermine.model.bio.SequenceFeature)
+2019-07-19 11:24:27 INFO  org.intermine.modelproduction.ModelMerger     - removing attribute status redefinition in org.intermine.model.bio.Gene (is now defined in org.intermine.model.bio.SequenceFeature)
+2019-07-19 11:24:27 INFO  org.intermine.modelproduction.ModelMerger     - removing collection dbCrossReferences redefinition in org.intermine.model.bio.Gene (is now defined in org.intermine.model.bio.SequenceFeature)
+2019-07-19 11:24:29 INFO  org.intermine.objectstore.intermine.TorqueModelOutput     - Generating /db/hymenopteramine_release_1.4_april2019/intermine/hymenopteramine/dbmodel/build/main/os.production-schema.xml
+2019-07-19 11:24:29 INFO             org.intermine.sql.Database     - Creating new Database jdbc:postgresql://localhost:5432/hymenopteramine-1.4({platform=PostgreSQL, datasource.dataSourceClassName=org.postgresql.ds.PGSimpleDataSource, datasource.dataSourceName=db.production, datasource.maxConnections=10, datasource.databaseName=hymenopteramine-1.4, datasource.port=5432, datasource.class=com.zaxxer.hikari.HikariDataSource, datasource.password=t3x2iYYH4PxuQAoJh, datasource.user=walshamy, driver=org.postgresql.Driver, datasource.serverName=localhost} org.postgresql.Driver PostgreSQL) and parallelism 4
+2019-07-19 11:24:29 INFO         org.intermine.sql.DatabaseUtil     - Dropping table commentsinteractionexperiment
+2019-07-19 11:24:29 INFO         org.intermine.sql.DatabaseUtil     - Dropping table ontologyannotation
+2019-07-19 11:24:29 INFO         org.intermine.sql.DatabaseUtil     - Dropping table estsoverlappingestsets
+2019-07-19 11:24:29 INFO         org.intermine.sql.DatabaseUtil     - Dropping table sequencealterationstranscripts
+2019-07-19 11:24:29 INFO         org.intermine.sql.DatabaseUtil     - Dropping table intronstranscripts
+2019-07-19 11:24:29 INFO         org.intermine.sql.DatabaseUtil     - Dropping table orthologueevidencecode
+2019-07-19 11:24:29 INFO         org.intermine.sql.DatabaseUtil     - Dropping table bioentity
+2019-07-19 11:24:29 INFO         org.intermine.sql.DatabaseUtil     - Dropping table interactionregion
+2019-07-19 11:24:29 INFO         org.intermine.sql.DatabaseUtil     - Dropping table protein
+2019-07-19 11:24:29 INFO         org.intermine.sql.DatabaseUtil     - Dropping table proteindomain
+2019-07-19 11:24:29 INFO         org.intermine.sql.DatabaseUtil     - Dropping table regulatoryregion
+2019-07-19 11:24:29 INFO         org.intermine.sql.DatabaseUtil     - Dropping table uniprotfeature
+2019-07-19 11:24:29 INFO         org.intermine.sql.DatabaseUtil     - Dropping table xref
+2019-07-19 11:24:29 INFO         org.intermine.sql.DatabaseUtil     - Dropping table gene
+2019-07-19 11:24:29 INFO         org.intermine.sql.DatabaseUtil     - Dropping table foundinproteindomain
+2019-07-19 11:24:29 INFO         org.intermine.sql.DatabaseUtil     - Dropping table forwardprimer
+2019-07-19 11:24:29 INFO         org.intermine.sql.DatabaseUtil     - Dropping table intermine_sequence
+2019-07-19 11:24:29 INFO         org.intermine.sql.DatabaseUtil     - Dropping table mrna
+2019-07-19 11:24:29 INFO         org.intermine.sql.DatabaseUtil     - Dropping table commentpublications
+2019-07-19 11:24:29 INFO         org.intermine.sql.DatabaseUtil     - Dropping table ontologytermsynonym
+2019-07-19 11:24:29 INFO         org.intermine.sql.DatabaseUtil     - Dropping table datasetslocation
+2019-07-19 11:24:29 INFO         org.intermine.sql.DatabaseUtil     - Dropping table chromosomaltransposition
+2019-07-19 11:24:29 INFO         org.intermine.sql.DatabaseUtil     - Dropping table goevidencepublications
+2019-07-19 11:24:29 INFO         org.intermine.sql.DatabaseUtil     - Dropping table cds
+2019-07-19 11:24:29 INFO         org.intermine.sql.DatabaseUtil     - Dropping table goevidence
+2019-07-19 11:24:29 INFO         org.intermine.sql.DatabaseUtil     - Dropping table chromosomaldeletion
+2019-07-19 11:24:29 INFO         org.intermine.sql.DatabaseUtil     - Dropping table datasource
+2019-07-19 11:24:29 INFO         org.intermine.sql.DatabaseUtil     - Dropping table sequencecollection
+2019-07-19 11:24:29 INFO         org.intermine.sql.DatabaseUtil     - Dropping table crossreferencesontologyterm
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table bioentitiespublications
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table meshterm
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table genessequencevariant
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table indel
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table evidencegoannotation
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table datasetsontologyannotation
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table transposableelementinsertionsite
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table bindingsite
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table goterm
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table interactionexperimentparticipantidentificationmethods
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table enhancer
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table chromosomeband
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table startcodon
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table transcriptsutrs
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table primer
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table soterm
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table goannotationpathway
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table primarytranscript
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table consequenceconsequencetypes
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table evidencehomologue
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table interactiondetail
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table fiveprimeutr
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table transcript
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table genesintrons
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table chromosomestructurevariation
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table datasourcepublications
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table tracker
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table duplicateentity
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table oligo
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table datasetshomologue
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table pcrproduct
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table ecnumber
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table interactionregionlocations
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table consequence
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table haoterm
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table maturetranscript
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table maturetranscriptsprimarytranscript
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table ontologytermrelations
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table pointmutation
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table ecoterm
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table genespathways
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table aliasnamedatasets
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table datasetspathway
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table precompute_index
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table component
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table orthologueevidence
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table snp
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table goevidencecode
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table childfeaturessequencefeature
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table consequencetype
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table interactionterm
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table pathway
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table dataset
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table exonstranscripts
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table osbag_int
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table ontologyrelation
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table goldenpathfragment
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table adjacentgenesintergenicregion
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table meshtermspublications
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table est
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table interactiondetectionmethodsinteractionexperiment
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table intermine_metadata
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table trna
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table executelog
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table cdnaclone
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table homologue
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table ontologyterm
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table containsproteindomain
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table pathwaysprotein
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table keywordsprotein
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table publication
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table ontologytermsynonyms
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table genegoannotation
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table genesproteins
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table ontology
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table childfeaturesproteindomain
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table polypeptide
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table organism
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table author
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table overlappingfeaturessequencefeature
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table intermineobject
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table ecnumbersproteins
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table tfbindingsite
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table interactionexperiment
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table chromosomalinversion
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table aliasname
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table crossreference
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table parentfeaturesproteindomain
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table utr
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table threeprimeutr
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table chromosomalduplication
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table ontologytermparents
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table bioentitiesdatasets
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table mirna
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table sequencealteration
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table overlappingestset
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table chromosomaltranslocation
+2019-07-19 11:24:30 INFO         org.intermine.sql.DatabaseUtil     - Dropping table sequencefeature
+2019-07-19 11:24:31 INFO         org.intermine.sql.DatabaseUtil     - Dropping table rrna
+2019-07-19 11:24:31 INFO         org.intermine.sql.DatabaseUtil     - Dropping table stopcodon
+2019-07-19 11:24:31 INFO         org.intermine.sql.DatabaseUtil     - Dropping table pathwaypublications
+2019-07-19 11:24:31 INFO         org.intermine.sql.DatabaseUtil     - Dropping table naturaltransposableelement
+2019-07-19 11:24:31 INFO         org.intermine.sql.DatabaseUtil     - Dropping table geneflankingregion
+2019-07-19 11:24:31 INFO         org.intermine.sql.DatabaseUtil     - Dropping table snorna
+2019-07-19 11:24:31 INFO         org.intermine.sql.DatabaseUtil     - Dropping table datasetsinteractiondetail
+2019-07-19 11:24:31 INFO         org.intermine.sql.DatabaseUtil     - Dropping table clob
+2019-07-19 11:24:31 INFO         org.intermine.sql.DatabaseUtil     - Dropping table proteindomainregion
+2019-07-19 11:24:31 INFO         org.intermine.sql.DatabaseUtil     - Dropping table synonym
+2019-07-19 11:24:31 INFO         org.intermine.sql.DatabaseUtil     - Dropping table datasetsontologyterm
+2019-07-19 11:24:31 INFO         org.intermine.sql.DatabaseUtil     - Dropping table datasetssynonym
+2019-07-19 11:24:31 INFO         org.intermine.sql.DatabaseUtil     - Dropping table aliasesfeatures
+2019-07-19 11:24:31 INFO         org.intermine.sql.DatabaseUtil     - Dropping table orthologueevidencepublications
+2019-07-19 11:24:31 INFO         org.intermine.sql.DatabaseUtil     - Dropping table dbcrossreferencessequencefeature
+2019-07-19 11:24:31 INFO         org.intermine.sql.DatabaseUtil     - Dropping table crm
+2019-07-19 11:24:31 INFO         org.intermine.sql.DatabaseUtil     - Dropping table duplicateentitiesgene
+2019-07-19 11:24:31 INFO         org.intermine.sql.DatabaseUtil     - Dropping table snrna
+2019-07-19 11:24:31 INFO         org.intermine.sql.DatabaseUtil     - Dropping table goannotation
+2019-07-19 11:24:31 INFO         org.intermine.sql.DatabaseUtil     - Dropping table chromosome
+2019-07-19 11:24:31 INFO         org.intermine.sql.DatabaseUtil     - Dropping table allinteractorsinteractiondetail
+2019-07-19 11:24:31 INFO         org.intermine.sql.DatabaseUtil     - Dropping table pathwayproteins
+2019-07-19 11:24:31 INFO         org.intermine.sql.DatabaseUtil     - Dropping table reverseprimer
+2019-07-19 11:24:31 INFO         org.intermine.sql.DatabaseUtil     - Dropping table interactor
+2019-07-19 11:24:31 INFO         org.intermine.sql.DatabaseUtil     - Dropping table ncrna
+2019-07-19 11:24:31 INFO         org.intermine.sql.DatabaseUtil     - Dropping table sequencevariant
+2019-07-19 11:24:31 INFO         org.intermine.sql.DatabaseUtil     - Dropping table crossreferenceshomologue
+2019-07-19 11:24:31 INFO         org.intermine.sql.DatabaseUtil     - Dropping table microarrayoligo
+2019-07-19 11:24:31 INFO         org.intermine.sql.DatabaseUtil     - Dropping table intron
+2019-07-19 11:24:31 INFO         org.intermine.sql.DatabaseUtil     - Dropping table commentsprotein
+2019-07-19 11:24:31 INFO         org.intermine.sql.DatabaseUtil     - Dropping table allele
+2019-07-19 11:24:31 INFO         org.intermine.sql.DatabaseUtil     - Dropping table interaction
+2019-07-19 11:24:31 INFO         org.intermine.sql.DatabaseUtil     - Dropping table comment
+2019-07-19 11:24:31 INFO         org.intermine.sql.DatabaseUtil     - Dropping table location
+2019-07-19 11:24:31 INFO         org.intermine.sql.DatabaseUtil     - Dropping table intergenicregion
+2019-07-19 11:24:31 INFO         org.intermine.sql.DatabaseUtil     - Dropping table exon
+2019-07-19 11:24:31 INFO         org.intermine.sql.DatabaseUtil     - Dropping table authorspublications
+2019-07-19 11:24:31 INFO         org.intermine.sql.DatabaseUtil     - Dropping table transposableelement
+2019-07-19 11:24:31 INFO         org.intermine.sql.DatabaseUtil     - Dropping sequence serial
+2019-07-19 11:24:31 INFO         org.intermine.sql.DatabaseUtil     - Dropping sequence objectstore_unique_integer
+2019-07-19 11:24:31 INFO  org.apache.torque.engine.database.transform.XmlToAppData     - Parsing file: 'schema1841531551843164670xml'
+2019-07-19 11:24:35 INFO             org.intermine.sql.Database     - Creating new Database jdbc:postgresql://localhost:5432/hymenopteramine-1.4({platform=PostgreSQL, datasource.dataSourceClassName=org.postgresql.ds.PGSimpleDataSource, datasource.dataSourceName=db.production, datasource.maxConnections=10, datasource.databaseName=hymenopteramine-1.4, datasource.port=5432, datasource.class=com.zaxxer.hikari.HikariDataSource, datasource.password=t3x2iYYH4PxuQAoJh, datasource.user=walshamy, driver=org.postgresql.Driver, datasource.serverName=localhost} org.postgresql.Driver PostgreSQL) and parallelism 4
+2019-07-19 11:24:35 INFO  org.intermine.objectstore.ObjectStoreAbstractImpl     - Creating new org.intermine.objectstore.intermine.ObjectStoreInterMineImpl with sequence = {}, model = "genomic"
+2019-07-19 11:24:35 INFO             org.intermine.sql.Database     - Finalise - Closing datasource for Database jdbc:postgresql://localhost:5432/hymenopteramine-1.4({platform=PostgreSQL, datasource.dataSourceClassName=org.postgresql.ds.PGSimpleDataSource, datasource.dataSourceName=db.production, datasource.maxConnections=10, datasource.databaseName=hymenopteramine-1.4, datasource.port=5432, datasource.class=com.zaxxer.hikari.HikariDataSource, datasource.password=t3x2iYYH4PxuQAoJh, datasource.user=walshamy, driver=org.postgresql.Driver, datasource.serverName=localhost} org.postgresql.Driver PostgreSQL) with ClassLoader AntClassLoader[/db/hymenopteramine_release_1.4_april2019/intermine/hymenopteramine/dbmodel/build/model:/db/hymenopteramine_release_1.4_april2019/intermine/hymenopteramine/dbmodel/build/main:/db/hymenopteramine_release_1.4_april2019/intermine/intermine/model/main/dist/intermine-model.jar:/db/hymenopteramine_release_1.4_april2019/intermine/intermine/model/main/lib/antlr-2.7.6-caching.jar:/db/hymenopteramine_release_1.4_april2019/intermine/intermine/model/main/lib/asm-4.2.jar:/db/hymenopteramine_release_1.4_april2019/intermine/intermine/model/main/lib/asm-util-4.2.jar:/db/hymenopteramine_release_1.4_april2019/intermine/intermine/model/main/lib/cglib-3.1.jar:/db/hymenopteramine_release_1.4_april2019/intermine/intermine/model/main/lib/commons-collections-3.2.jar:/db/hymenopteramine_release_1.4_april2019/intermine/intermine/model/main/lib/commons-io-1.2.jar:/db/hymenopteramine_release_1.4_april2019/intermine/intermine/model/main/lib/commons-lang-2.6.jar:/db/hymenopteramine_release_1.4_april2019/intermine/intermine/model/main/lib/json20110106.jar:/db/hymenopteramine_release_1.4_april2019/intermine/intermine/model/main/lib/log4j.jar:/db/hymenopteramine_release_1.4_april2019/intermine/intermine/model/main/lib/stax-api-1.0.1.jar:/db/hymenopteramine_release_1.4_april2019/intermine/intermine/objectstore/main/dist/intermine-objectstore.jar:/db/hymenopteramine_release_1.4_april2019/intermine/intermine/objectstore/main/lib/HikariCP-java6-2.3.8.jar:/db/hymenopteramine_release_1.4_april2019/intermine/intermine/objectstore/main/lib/ant-1.6.5.jar:/db/hymenopteramine_release_1.4_april2019/intermine/intermine/objectstore/main/lib/base64.jar:/db/hymenopteramine_release_1.4_april2019/intermine/intermine/objectstore/main/lib/commons-beanutils-1.6.1.jar:/db/hymenopteramine_release_1.4_april2019/intermine/intermine/objectstore/main/lib/commons-digester-2.1.jar:/db/hymenopteramine_release_1.4_april2019/intermine/intermine/objectstore/main/lib/commons-logging-1.0.jar:/db/hymenopteramine_release_1.4_april2019/intermine/intermine/objectstore/main/lib/javassist-3.18.2.GA.jar:/db/hymenopteramine_release_1.4_april2019/intermine/intermine/objectstore/main/lib/jaxrpc.jar:/db/hymenopteramine_release_1.4_april2019/intermine/intermine/objectstore/main/lib/libreadline-java.jar:/db/hymenopteramine_release_1.4_april2019/intermine/intermine/objectstore/main/lib/ojdbc14.jar:/db/hymenopteramine_release_1.4_april2019/intermine/intermine/objectstore/main/lib/opencsv-2.3.jar:/db/hymenopteramine_release_1.4_april2019/intermine/intermine/objectstore/main/lib/postgresql-9.4.1212.jre7.jar:/db/hymenopteramine_release_1.4_april2019/intermine/intermine/objectstore/main/lib/saaj.jar:/db/hymenopteramine_release_1.4_april2019/intermine/intermine/objectstore/main/lib/slf4j-api-1.7.7.jar:/db/hymenopteramine_release_1.4_april2019/intermine/intermine/objectstore/main/lib/slf4j-simple-1.7.7.jar:/db/hymenopteramine_release_1.4_april2019/intermine/intermine/objectstore/main/lib/torque-3.2-dev.jar:/db/hymenopteramine_release_1.4_april2019/intermine/intermine/objectstore/main/lib/torque-gen-3.2-dev.jar:/db/hymenopteramine_release_1.4_april2019/intermine/intermine/objectstore/main/lib/velocity-1.3.jar:/db/hymenopteramine_release_1.4_april2019/intermine/intermine/objectstore/main/lib/xercesImpl-2.9.1.jar:/db/hymenopteramine_release_1.4_april2019/intermine/intermine/integrate/model/fulldata/dist/fulldata.jar:/db/hymenopteramine_release_1.4_april2019/intermine/intermine/integrate/main/dist/intermine-integrate.jar:/db/hymenopteramine_release_1.4_april2019/intermine/intermine/integrate/main/lib/mysql-connector-java-5.1.26-bin.jar:/db/hymenopteramine_release_1.4_april2019/intermine/intermine/integrate/main/lib/stax-ri-1.0.jar:/db/hymenopteramine_release_1.4_april2019/intermine/intermine/api/model/userprofile/dist/userprofile.jar:/db/hymenopteramine_release_1.4_april2019/intermine/intermine/pathquery/main/dist/intermine-pathquery.jar:/db/hymenopteramine_release_1.4_april2019/intermine/intermine/pathquery/main/lib/stax-ri-1.0.jar:/db/hymenopteramine_release_1.4_april2019/intermine/intermine/api/main/dist/intermine-api.jar:/db/hymenopteramine_release_1.4_april2019/intermine/intermine/api/main/lib/bobo-browse-2.5.1.jar:/db/hymenopteramine_release_1.4_april2019/intermine/intermine/api/main/lib/fastutil.jar:/db/hymenopteramine_release_1.4_april2019/intermine/intermine/api/main/lib/kamikaze-2.0.0.jar:/db/hymenopteramine_release_1.4_april2019/intermine/intermine/api/main/lib/lucene-core-3.0.2.jar:/db/hymenopteramine_release_1.4_april2019/intermine/intermine/api/main/lib/lucene-highlighter-3.0.2.jar:/db/hymenopteramine_release_1.4_april2019/intermine/intermine/api/main/lib/lucene-queries-3.0.2.jar:/db/hymenopteramine_release_1.4_april2019/intermine/intermine/api/main/lib/lucene-snowball-3.0.2.jar:/db/hymenopteramine_release_1.4_april2019/intermine/intermine/api/main/lib/xalan.jar:/db/hymenopteramine_release_1.4_april2019/intermine/bio/core/main/dist/bio-core.jar:/db/hymenopteramine_release_1.4_april2019/intermine/bio/core/main/lib/bbop.jar:/db/hymenopteramine_release_1.4_april2019/intermine/bio/core/main/lib/biojava-1.7.1.jar:/db/hymenopteramine_release_1.4_april2019/intermine/bio/core/main/lib/jakarta-regexp-1.4.jar:/db/hymenopteramine_release_1.4_april2019/intermine/bio/core/main/lib/jena.jar:/db/hymenopteramine_release_1.4_april2019/intermine/bio/core/main/lib/obo.jar:/db/hymenopteramine_release_1.4_april2019/intermine/hymenopteramine/dbmodel/build/classes]
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 processing class org.intermine.model.bio.AliasName
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: aliasesfeatures__aliases
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 processing class org.intermine.model.bio.Author
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: authorspublications__authors
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 processing class org.intermine.model.bio.BindingSite
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: bindingsite__chromosome
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 processing class org.intermine.model.bio.Allele
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: allele__gene
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: aliasesfeatures__features
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: authorspublications__publications
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: bindingsite__chromosomelocation
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: allele__organism
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: aliasname__organism
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: bindingsite__organism
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: allele__sequenceontologyterm
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 processing class org.intermine.model.bio.BioEntity
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: bioentitiesdatasets__bioentities
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: aliasnamedatasets__aliasname
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: bindingsite__sequence
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 processing class org.intermine.model.bio.CDNAClone
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: cdnaclone__chromosome
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: bioentitiesdatasets__datasets
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: aliasnamedatasets__datasets
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: bindingsite__sequenceontologyterm
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: cdnaclone__chromosomelocation
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: bioentitiespublications__bioentities
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 processing class org.intermine.model.bio.CDS
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: cds__chromosome
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 processing class org.intermine.model.bio.CRM
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: cdnaclone__organism
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: crm__chromosome
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: bioentitiespublications__publications
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: cds__chromosomelocation
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: cdnaclone__sequence
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: crm__chromosomelocation
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: bioentity__organism
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: cds__gene
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: cdnaclone__sequenceontologyterm
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: crm__gene
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 processing class org.intermine.model.bio.ChromosomalDeletion
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: chromosomaldeletion__organism
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: cds__organism
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 processing class org.intermine.model.bio.ChromosomalDuplication
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: chromosomalduplication__organism
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: crm__organism
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: chromosomaldeletion__sequenceontologyterm
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: cds__protein
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: chromosomalduplication__sequenceontologyterm
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 processing class org.intermine.model.bio.ChromosomalInversion
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: chromosomalinversion__organism
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: crm__sequence
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: cds__sequence
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 processing class org.intermine.model.bio.ChromosomalTranslocation
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: chromosomaltranslocation__organism
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: chromosomalinversion__sequenceontologyterm
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: crm__sequenceontologyterm
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: cds__sequenceontologyterm
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 processing class org.intermine.model.bio.ChromosomalTransposition
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: chromosomaltransposition__organism
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: chromosomaltranslocation__sequenceontologyterm
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 processing class org.intermine.model.bio.Chromosome
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: chromosome__chromosome
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: chromosomaltransposition__sequenceontologyterm
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: cds__transcript
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 processing class org.intermine.model.bio.ChromosomeBand
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: chromosomeband__chromosome
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: chromosome__chromosomelocation
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 processing class org.intermine.model.bio.ChromosomeStructureVariation
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: chromosomestructurevariation__organism
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 processing class org.intermine.model.bio.Comment
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: commentpublications__comment
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: chromosomeband__chromosomelocation
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: chromosome__key_primaryidentifier
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: chromosomestructurevariation__sequenceontologyterm
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: chromosome__organism
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: commentpublications__publications
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: chromosomeband__organism
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 processing class org.intermine.model.bio.Component
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: component__protein
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: chromosome__sequence
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 processing class org.intermine.model.bio.Consequence
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: consequence__transcript
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 processing class org.intermine.model.bio.CrossReference
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: crossreference__source
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: chromosomeband__sequence
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: chromosome__sequenceontologyterm
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: consequence__variant
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: crossreference__subject
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: chromosomeband__sequenceontologyterm
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 processing class org.intermine.model.bio.DataSet
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: dataset__datasource
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: consequenceconsequencetypes__consequence
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 processing class org.intermine.model.bio.DataSource
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: datasource__key_name
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 processing class org.intermine.model.bio.DuplicateEntity
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: duplicateentity__organism
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: dataset__key_title
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: consequenceconsequencetypes__consequencetypes
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: datasourcepublications__datasource
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: dataset__publication
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 processing class org.intermine.model.bio.ECNumber
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: ecnumbersproteins__ecnumbers
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 processing class org.intermine.model.bio.ECOTerm
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: ecoterm__ontology
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: datasourcepublications__publications
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 processing class org.intermine.model.bio.EST
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: est__chromosome
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 processing class org.intermine.model.bio.Enhancer
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: ecnumbersproteins__proteins
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: enhancer__chromosome
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 processing class org.intermine.model.bio.Exon
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: exon__chromosome
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: est__chromosomelocation
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 processing class org.intermine.model.bio.FivePrimeUTR
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: fiveprimeutr__chromosome
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: exon__chromosomelocation
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: est__organism
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: enhancer__chromosomelocation
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: fiveprimeutr__chromosomelocation
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: est__sequence
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: exon__gene
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: enhancer__gene
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: est__sequenceontologyterm
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: fiveprimeutr__gene
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: exon__key_primaryidentifier
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: enhancer__organism
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: estsoverlappingestsets__ests
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: exon__organism
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: fiveprimeutr__organism
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: estsoverlappingestsets__overlappingestsets
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: enhancer__sequence
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: exon__sequence
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 processing class org.intermine.model.bio.ForwardPrimer
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: forwardprimer__chromosome
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: fiveprimeutr__sequence
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: enhancer__sequenceontologyterm
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: exon__sequenceontologyterm
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: forwardprimer__chromosomelocation
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: fiveprimeutr__sequenceontologyterm
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 processing class org.intermine.model.bio.GOAnnotation
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: evidencegoannotation__evidence
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: forwardprimer__organism
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: exonstranscripts__exons
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 processing class org.intermine.model.bio.GOEvidence
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: goevidence__code
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: evidencegoannotation__goannotation
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: forwardprimer__sequence
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: exonstranscripts__transcripts
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: goannotation__ontologyterm
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: goevidencepublications__goevidence
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: forwardprimer__sequenceontologyterm
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 processing class org.intermine.model.bio.GOEvidenceCode
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: goevidencecode__evidenceontology
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: goevidencepublications__publications
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 processing class org.intermine.model.bio.GOTerm
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: goannotation__subject
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: goterm__ontology
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 processing class org.intermine.model.bio.Gene
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: duplicateentitiesgene__duplicateentities
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 processing class org.intermine.model.bio.GeneFlankingRegion
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: geneflankingregion__chromosome
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 processing class org.intermine.model.bio.GoldenPathFragment
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: goldenpathfragment__chromosome
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 processing class org.intermine.model.bio.HAOTerm
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: haoterm__ontology
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: duplicateentitiesgene__gene
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: geneflankingregion__chromosomelocation
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 processing class org.intermine.model.bio.Homologue
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: crossreferenceshomologue__crossreferences
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: goldenpathfragment__chromosomelocation
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: gene__chromosome
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: geneflankingregion__gene
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: crossreferenceshomologue__homologue
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: goldenpathfragment__organism
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: gene__chromosomelocation
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: geneflankingregion__organism
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: datasetshomologue__datasets
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: goldenpathfragment__sequence
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: gene__downstreamintergenicregion
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: geneflankingregion__sequence
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: datasetshomologue__homologue
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: goldenpathfragment__sequenceontologyterm
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: gene__key_primaryidentifier
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: geneflankingregion__sequenceontologyterm
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: evidencehomologue__evidence
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 processing class org.intermine.model.bio.Indel
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: indel__chromosome
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: gene__key_secondaryidentifier
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 processing class org.intermine.model.bio.Interaction
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: interaction__participant1
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: evidencehomologue__homologue
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: indel__chromosomelocation
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: gene__key_symbol_org
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: interaction__participant2
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: homologue__gene
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: indel__organism
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: gene__organism
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 processing class org.intermine.model.bio.InteractionDetail
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: allinteractorsinteractiondetail__allinteractors
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: indel__sequence
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: homologue__homologue
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: gene__sequence
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: allinteractorsinteractiondetail__interactiondetail
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 processing class org.intermine.model.bio.InteractionExperiment
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: commentsinteractionexperiment__comments
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: gene__sequenceontologyterm
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: indel__sequenceontologyterm
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: datasetsinteractiondetail__datasets
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: commentsinteractionexperiment__interactionexperiment
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: gene__upstreamintergenicregion
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 processing class org.intermine.model.bio.InteractionRegion
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: interactionregion__interaction
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: datasetsinteractiondetail__interactiondetail
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: interactiondetectionmethodsinteractionexperiment__interactiondetectionmethods
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: interactionregion__ontologyterm
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: interactiondetail__experiment
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: genegoannotation__gene
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: interactiondetectionmethodsinteractionexperiment__interactionexperiment
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: interactionregionlocations__interactionregion
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: interactiondetail__interaction
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: interactionregionlocations__locations
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 processing class org.intermine.model.bio.InteractionTerm
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: genegoannotation__goannotation
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: interactionexperiment__publication
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: interactionterm__ontology
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 processing class org.intermine.model.bio.IntergenicRegion
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: adjacentgenesintergenicregion__adjacentgenes
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: interactionexperimentparticipantidentificationmethods__interactionexperiment
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: genesintrons__genes
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 processing class org.intermine.model.bio.Intron
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: intron__chromosome
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: adjacentgenesintergenicregion__intergenicregion
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: interactionexperimentparticipantidentificationmethods__participantidentificationmethods
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: genesintrons__introns
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: intron__chromosomelocation
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: intergenicregion__chromosome
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: genespathways__genes
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: intron__organism
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 processing class org.intermine.model.bio.Location
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: datasetslocation__datasets
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: intergenicregion__chromosomelocation
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: genespathways__pathways
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: intron__sequence
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: datasetslocation__location
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: intergenicregion__organism
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: genesproteins__genes
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: intron__sequenceontologyterm
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: location__feature
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: intergenicregion__sequence
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: genesproteins__proteins
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: intronstranscripts__introns
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: location__key_all
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: intergenicregion__sequenceontologyterm
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 processing class org.intermine.model.bio.MRNA
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: mrna__chromosome
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: intronstranscripts__transcripts
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 processing class org.intermine.model.bio.MeshTerm
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: meshtermspublications__meshterms
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 processing class org.intermine.model.bio.MiRNA
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: mirna__chromosome
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: mrna__chromosomelocation
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 processing class org.intermine.model.bio.MicroarrayOligo
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: mirna__chromosomelocation
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: meshtermspublications__publications
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: microarrayoligo__chromosome
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: mrna__gene
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 processing class org.intermine.model.bio.NaturalTransposableElement
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: microarrayoligo__chromosomelocation
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: mirna__gene
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: naturaltransposableelement__chromosome
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: mrna__organism
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: microarrayoligo__organism
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: mirna__organism
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: naturaltransposableelement__chromosomelocation
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: mrna__protein
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: microarrayoligo__sequence
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: mirna__protein
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: mrna__sequence
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: naturaltransposableelement__organism
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: microarrayoligo__sequenceontologyterm
+2019-07-19 11:24:35 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: mirna__sequence
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 processing class org.intermine.model.bio.NcRNA
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: ncrna__chromosome
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: naturaltransposableelement__sequence
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: mrna__sequenceontologyterm
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: mirna__sequenceontologyterm
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 processing class org.intermine.model.bio.Oligo
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: oligo__chromosome
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: naturaltransposableelement__sequenceontologyterm
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: ncrna__chromosomelocation
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 processing class org.intermine.model.bio.Ontology
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: ontology__key_title
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: oligo__chromosomelocation
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: ncrna__gene
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 processing class org.intermine.model.bio.OntologyAnnotation
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: datasetsontologyannotation__datasets
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 processing class org.intermine.model.bio.OntologyRelation
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: ontologyrelation__childterm
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: oligo__organism
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: ncrna__organism
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: datasetsontologyannotation__ontologyannotation
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: oligo__sequence
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: ontologyrelation__key
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: ncrna__protein
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: ontologyannotation__ontologyterm
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: oligo__sequenceontologyterm
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 processing class org.intermine.model.bio.OntologyTerm
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: crossreferencesontologyterm__crossreferences
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: ncrna__sequence
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: ontologyannotation__subject
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 processing class org.intermine.model.bio.OntologyTermSynonym
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: ontologytermsynonym__key
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: crossreferencesontologyterm__ontologyterm
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: ncrna__sequenceontologyterm
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 processing class org.intermine.model.bio.Organism
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: organism__key_taxonid
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 processing class org.intermine.model.bio.OrthologueEvidence
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: orthologueevidence__evidencecode
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: datasetsontologyterm__datasets
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 processing class org.intermine.model.bio.OverlappingESTSet
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: overlappingestset__chromosome
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: datasetsontologyterm__ontologyterm
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 processing class org.intermine.model.bio.PCRProduct
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: orthologueevidencepublications__orthologueevidence
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: pcrproduct__chromosome
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: overlappingestset__chromosomelocation
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: ecoterm__ontologyterm__key_identifier
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: pcrproduct__chromosomelocation
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: orthologueevidencepublications__publications
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: overlappingestset__organism
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: ecoterm__ontologyterm__key_name_ontology
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: pcrproduct__organism
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 processing class org.intermine.model.bio.Pathway
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: datasetspathway__datasets
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: overlappingestset__sequence
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: goterm__ontologyterm__key_identifier
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: pcrproduct__sequence
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: overlappingestset__sequenceontologyterm
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: datasetspathway__pathway
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: goterm__ontologyterm__key_name_ontology
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: pcrproduct__sequenceontologyterm
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 processing class org.intermine.model.bio.PointMutation
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: pointmutation__chromosome
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: haoterm__ontologyterm__key_identifier
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: goannotationpathway__goannotation
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 processing class org.intermine.model.bio.Polypeptide
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: polypeptide__chromosome
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: pointmutation__chromosomelocation
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: goannotationpathway__pathway
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: haoterm__ontologyterm__key_name_ontology
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: polypeptide__chromosomelocation
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: pointmutation__organism
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: pathway__organism
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: interactionterm__ontologyterm__key_identifier
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: polypeptide__gene
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: pointmutation__sequence
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: pathwayproteins__pathway
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: interactionterm__ontologyterm__key_name_ontology
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: pointmutation__sequenceontologyterm
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: polypeptide__mrna
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: pathwayproteins__proteins
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: ontologyterm__key_identifier
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 processing class org.intermine.model.bio.PrimaryTranscript
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: maturetranscriptsprimarytranscript__maturetranscripts
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: polypeptide__organism
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: pathwaypublications__pathway
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: ontologyterm__key_name_ontology
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: maturetranscriptsprimarytranscript__primarytranscript
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: pathwaypublications__publications
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: polypeptide__sequence
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: ontologyterm__ontology
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: polypeptide__sequenceontologyterm
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: primarytranscript__chromosome
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 processing class org.intermine.model.bio.Primer
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: primer__chromosome
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: ontologytermparents__ontologyterm
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 processing class org.intermine.model.bio.Protein
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: commentsprotein__comments
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: primarytranscript__chromosomelocation
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: primer__chromosomelocation
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: commentsprotein__protein
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: ontologytermparents__parents
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: primarytranscript__gene
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: primer__organism
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: keywordsprotein__keywords
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: primarytranscript__organism
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: ontologytermrelations__ontologyterm
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: primer__sequence
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: keywordsprotein__protein
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: primarytranscript__protein
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: pathwaysprotein__pathways
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: ontologytermrelations__relations
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: primer__sequenceontologyterm
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: primarytranscript__sequence
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: pathwaysprotein__protein
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 processing class org.intermine.model.bio.ProteinDomain
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: childfeaturesproteindomain__childfeatures
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: ontologytermsynonyms__ontologyterm
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: primarytranscript__sequenceontologyterm
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: protein__canonicalprotein
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: childfeaturesproteindomain__proteindomain
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 processing class org.intermine.model.bio.ProteinDomainRegion
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: proteindomainregion__protein
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: protein__key_md5checksum_taxonid
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: ontologytermsynonyms__synonyms
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: containsproteindomain__contains
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: proteindomainregion__proteindomain
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: protein__key_primaryacc
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: containsproteindomain__proteindomain
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: soterm__ontologyterm__key_identifier
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 processing class org.intermine.model.bio.Publication
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: publication__key_paper
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: foundinproteindomain__foundin
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: soterm__ontologyterm__key_name_ontology
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: publication__key_pubmed
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: protein__key_primaryidentifier
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: foundinproteindomain__proteindomain
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 processing class org.intermine.model.bio.RRNA
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: rrna__chromosome
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: protein__key_secondaryidentifier
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 processing class org.intermine.model.bio.RegulatoryRegion
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: regulatoryregion__chromosome
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: parentfeaturesproteindomain__parentfeatures
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: regulatoryregion__chromosomelocation
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: parentfeaturesproteindomain__proteindomain
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: regulatoryregion__gene
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: protein__organism
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: rrna__chromosomelocation
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: proteindomain__key_identifier
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: regulatoryregion__organism
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: protein__sequence
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: rrna__gene
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: proteindomain__organism
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: regulatoryregion__sequence
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 processing class org.intermine.model.bio.ReversePrimer
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: reverseprimer__chromosome
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: rrna__organism
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: regulatoryregion__sequenceontologyterm
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: reverseprimer__chromosomelocation
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 processing class org.intermine.model.bio.SNP
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: rrna__protein
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: snp__chromosome
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 processing class org.intermine.model.bio.SOTerm
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: soterm__ontology
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: snp__chromosomelocation
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: rrna__sequence
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: snp__organism
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 processing class org.intermine.model.bio.Sequence
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: intermine_sequence__key_md5checksum
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: rrna__sequenceontologyterm
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: reverseprimer__organism
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: snp__sequence
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 processing class org.intermine.model.bio.SequenceAlteration
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: sequencealteration__chromosome
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: reverseprimer__sequence
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 processing class org.intermine.model.bio.SequenceCollection
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: sequencecollection__organism
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: snp__sequenceontologyterm
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: reverseprimer__sequenceontologyterm
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: sequencealteration__chromosomelocation
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: sequencecollection__sequenceontologyterm
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 processing class org.intermine.model.bio.SequenceFeature
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: bindingsite__sequencefeature__key_primaryidentifier
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 processing class org.intermine.model.bio.SequenceVariant
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: genessequencevariant__genes
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: cdnaclone__sequencefeature__key_primaryidentifier
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: sequencealteration__organism
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 processing class org.intermine.model.bio.SnRNA
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: snrna__chromosome
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: genessequencevariant__sequencevariant
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: cds__sequencefeature__key_primaryidentifier
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: snrna__chromosomelocation
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: sequencealteration__sequence
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 processing class org.intermine.model.bio.SnoRNA
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: snorna__chromosome
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: childfeaturessequencefeature__childfeatures
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: snrna__gene
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: childfeaturessequencefeature__sequencefeature
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: snorna__chromosomelocation
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: sequencealteration__sequenceontologyterm
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: snrna__organism
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: chromosome__sequencefeature__key_primaryidentifier
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: chromosomeband__sequencefeature__key_primaryidentifier
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: snorna__gene
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: sequencealterationstranscripts__sequencealterations
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: snrna__protein
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: crm__sequencefeature__key_primaryidentifier
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: snorna__organism
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: sequencealterationstranscripts__transcripts
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: snrna__sequence
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: dbcrossreferencessequencefeature__dbcrossreferences
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: snorna__protein
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 processing class org.intermine.model.bio.StartCodon
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: startcodon__chromosome
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: dbcrossreferencessequencefeature__sequencefeature
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: snrna__sequenceontologyterm
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: snorna__sequence
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: startcodon__chromosomelocation
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: enhancer__sequencefeature__key_primaryidentifier
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 processing class org.intermine.model.bio.StopCodon
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: stopcodon__chromosome
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: snorna__sequenceontologyterm
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: startcodon__organism
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: stopcodon__chromosomelocation
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: est__sequencefeature__key_primaryidentifier
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 processing class org.intermine.model.bio.Synonym
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: datasetssynonym__datasets
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: exon__sequencefeature__key_primaryidentifier
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: startcodon__sequence
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: fiveprimeutr__sequencefeature__key_primaryidentifier
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: stopcodon__organism
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: datasetssynonym__synonym
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: forwardprimer__sequencefeature__key_primaryidentifier
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: startcodon__sequenceontologyterm
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: stopcodon__sequence
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 processing class org.intermine.model.bio.TFBindingSite
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: tfbindingsite__chromosome
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: stopcodon__sequenceontologyterm
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: synonym__key_synonym
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: gene__sequencefeature__key_primaryidentifier
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: geneflankingregion__sequencefeature__key_primaryidentifier
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: tfbindingsite__chromosomelocation
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 processing class org.intermine.model.bio.TRNA
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 processing class org.intermine.model.bio.ThreePrimeUTR
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: trna__chromosome
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: threeprimeutr__chromosome
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: goldenpathfragment__sequencefeature__key_primaryidentifier
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: tfbindingsite__crm
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: threeprimeutr__chromosomelocation
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: tfbindingsite__gene
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: indel__sequencefeature__key_primaryidentifier
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: trna__chromosomelocation
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: tfbindingsite__organism
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: trna__gene
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: threeprimeutr__gene
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: intergenicregion__sequencefeature__key_primaryidentifier
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: tfbindingsite__sequence
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: trna__organism
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: threeprimeutr__organism
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: tfbindingsite__sequenceontologyterm
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: intron__sequencefeature__key_primaryidentifier
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: trna__protein
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: threeprimeutr__sequence
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: microarrayoligo__sequencefeature__key_primaryidentifier
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 processing class org.intermine.model.bio.Transcript
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: mirna__transcript__key_primaryidentifier
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: trna__sequence
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: threeprimeutr__sequenceontologyterm
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: mirna__sequencefeature__key_primaryidentifier
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: mrna__transcript__key_primaryidentifier
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: trna__sequenceontologyterm
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 processing class org.intermine.model.bio.TransposableElement
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: transposableelement__chromosome
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: mrna__sequencefeature__key_primaryidentifier
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 processing class org.intermine.model.bio.TransposableElementInsertionSite
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: ncrna__transcript__key_primaryidentifier
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: transposableelementinsertionsite__chromosome
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: transposableelement__chromosomelocation
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: naturaltransposableelement__sequencefeature__key_primaryidentifier
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: primarytranscript__transcript__key_primaryidentifier
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: transposableelementinsertionsite__chromosomelocation
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: transposableelement__organism
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: ncrna__sequencefeature__key_primaryidentifier
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: oligo__sequencefeature__key_primaryidentifier
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: rrna__transcript__key_primaryidentifier
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: transposableelementinsertionsite__organism
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: transposableelement__sequence
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: overlappingestset__sequencefeature__key_primaryidentifier
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: snorna__transcript__key_primaryidentifier
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: transposableelementinsertionsite__sequence
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: transposableelement__sequenceontologyterm
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: overlappingfeaturessequencefeature__overlappingfeatures
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: snrna__transcript__key_primaryidentifier
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 processing class org.intermine.model.bio.UTR
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: utr__chromosome
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: transposableelementinsertionsite__sequenceontologyterm
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: overlappingfeaturessequencefeature__sequencefeature
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: transcript__chromosome
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: utr__chromosomelocation
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 processing class org.intermine.model.bio.UniProtFeature
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: uniprotfeature__feature
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: pcrproduct__sequencefeature__key_primaryidentifier
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: transcript__chromosomelocation
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: utr__gene
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: uniprotfeature__protein
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: transcript__gene
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: pointmutation__sequencefeature__key_primaryidentifier
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: utr__organism
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 processing class org.intermine.model.bio.xRef
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: xref__organism
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: transcript__key_primaryidentifier
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: polypeptide__sequencefeature__key_primaryidentifier
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: utr__sequence
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: xref__referee
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: transcript__organism
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: primarytranscript__sequencefeature__key_primaryidentifier
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: primer__sequencefeature__key_primaryidentifier
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 creating index: xref__referrer
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 creating index: utr__sequenceontologyterm
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: transcript__protein
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: regulatoryregion__sequencefeature__key_primaryidentifier
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 0 finished
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - 3 threads left
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: transcript__sequence
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 1 finished
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - 2 threads left
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: reverseprimer__sequencefeature__key_primaryidentifier
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: transcript__sequenceontologyterm
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: rrna__sequencefeature__key_primaryidentifier
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: sequencealteration__sequencefeature__key_primaryidentifier
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: transcriptsutrs__transcripts
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: sequencefeature__chromosome
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: transcriptsutrs__utrs
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: sequencefeature__chromosomelocation
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 creating index: trna__transcript__key_primaryidentifier
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: sequencefeature__key_primaryidentifier
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 3 finished
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - 1 threads left
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: sequencefeature__organism
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: sequencefeature__sequence
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: sequencefeature__sequenceontologyterm
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: snorna__sequencefeature__key_primaryidentifier
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: snp__sequencefeature__key_primaryidentifier
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: snrna__sequencefeature__key_primaryidentifier
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: startcodon__sequencefeature__key_primaryidentifier
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: stopcodon__sequencefeature__key_primaryidentifier
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: tfbindingsite__sequencefeature__key_primaryidentifier
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: threeprimeutr__sequencefeature__key_primaryidentifier
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: transcript__sequencefeature__key_primaryidentifier
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: transposableelement__sequencefeature__key_primaryidentifier
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: transposableelementinsertionsite__sequencefeature__key_primaryidentifier
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: trna__sequencefeature__key_primaryidentifier
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 creating index: utr__sequencefeature__key_primaryidentifier
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - Thread 2 finished
+2019-07-19 11:24:36 INFO   org.intermine.task.CreateIndexesTask     - All threads finished
+2019-07-19 11:24:36 INFO             org.intermine.sql.Database     - Creating new Database jdbc:postgresql://localhost:5432/hymenopteramine-1.4({platform=PostgreSQL, datasource.dataSourceClassName=org.postgresql.ds.PGSimpleDataSource, datasource.dataSourceName=db.production, datasource.maxConnections=10, datasource.databaseName=hymenopteramine-1.4, datasource.port=5432, datasource.class=com.zaxxer.hikari.HikariDataSource, datasource.password=t3x2iYYH4PxuQAoJh, datasource.user=walshamy, driver=org.postgresql.Driver, datasource.serverName=localhost} org.postgresql.Driver PostgreSQL) and parallelism 4
+2019-07-19 11:24:36 INFO             org.intermine.sql.Database     - Shutdown - Closing datasource for Database jdbc:postgresql://localhost:5432/hymenopteramine-1.4({platform=PostgreSQL, datasource.dataSourceClassName=org.postgresql.ds.PGSimpleDataSource, datasource.dataSourceName=db.production, datasource.maxConnections=10, datasource.databaseName=hymenopteramine-1.4, datasource.port=5432, datasource.class=com.zaxxer.hikari.HikariDataSource, datasource.password=t3x2iYYH4PxuQAoJh, datasource.user=walshamy, driver=org.postgresql.Driver, datasource.serverName=localhost} org.postgresql.Driver PostgreSQL
+2019-07-19 11:24:36 INFO  org.intermine.objectstore.intermine.ObjectStoreInterMineImpl     - Shutting down open ObjectStoreInterMineImpl with sequence = {} and Database jdbc:postgresql://localhost:5432/hymenopteramine-1.4
+2019-07-19 11:24:36 INFO  org.intermine.objectstore.intermine.ObjectStoreInterMineImpl     - Close called on ObjectStoreInterMineImpl with sequence = {}, time spent: Bag Tables: 0, SQL Gen: 0, SQL Optimise: 0, Estimate: 0, Execute: 0, Results Convert: 0
+2019-07-19 11:24:36 INFO  org.intermine.objectstore.intermine.ObjectStoreInterMineImpl     - Temporary tables to drop: []
+2019-07-19 11:24:36 INFO             org.intermine.sql.Database     - Shutdown - Closing datasource for Database jdbc:postgresql://localhost:5432/hymenopteramine-1.4({platform=PostgreSQL, datasource.dataSourceClassName=org.postgresql.ds.PGSimpleDataSource, datasource.dataSourceName=db.production, datasource.maxConnections=10, datasource.databaseName=hymenopteramine-1.4, datasource.port=5432, datasource.class=com.zaxxer.hikari.HikariDataSource, datasource.password=t3x2iYYH4PxuQAoJh, datasource.user=walshamy, driver=org.postgresql.Driver, datasource.serverName=localhost} org.postgresql.Driver PostgreSQL
