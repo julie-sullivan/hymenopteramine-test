@@ -1,4 +1,4 @@
-rootProject.name = 'hymenoptera'
+rootProject.name = 'hymenopteramine'
 
 include ':dbmodel',':webapp'
 
