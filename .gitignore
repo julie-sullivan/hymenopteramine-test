@@ -12,3 +12,17 @@ executeLog*
 *.class
 productionLog
 *~
+*.cache
+
+# IDEs
+nbproject/
+nb-build.xml
+.idea/
+apache-tomcat*
+prefixed
+failures.list
+*.jks
+*.iml
+out/
+.gradle/
+
