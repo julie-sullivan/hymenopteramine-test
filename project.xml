@@ -1,6 +1,8 @@
 <project type="bio">
   <property name="target.model" value="genomic"/>
   <property name="common.os.prefix" value="common"/>
+  <property name="intermine.properties.file" value="hymenopteramine.properties"/>
+
 
   <!-- Ontologies -->
   <source name="so" type="so">
