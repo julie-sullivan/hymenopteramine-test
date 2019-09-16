@@ -58,7 +58,7 @@ gretty {
 }
 
 webappConfig {
-    mineName = "hymenoptera"
+    mineName = "hymenopteramine"
     objectStoreName = "os.production"
     userProfileObjectStoreName = "os.userprofile-production"
     userProfileObjectStoreWriterName = "osw.userprofile-production"
